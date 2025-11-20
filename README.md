@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Hemo Fatemi
+
+I’m an undergraduate Computer Science student with a growing focus on cognitive science, computational neuroscience, and the computational modeling of behavior.
 
 <!--
 **Hemoonchild/Hemoonchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
