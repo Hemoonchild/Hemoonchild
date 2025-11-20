@@ -1,6 +1,12 @@
 ## Hi I'm Hemo Fatemi
 
-I’m an undergraduate Computer Science student with a growing focus on cognitive science, computational neuroscience, and the computational modeling of behavior.
+A fourth year undergraduate **Computer Science** student at **University of Tehran** with a growing focus on cognitive science and computational neuroscience. 
+
+I enjoy exploring ideas at the intersection of brain sciences and computation, and I’m motivated by interdisciplinary research that connects psychology, neuroscience, and machine learning.
+
+My goal is to keep learning, building, and working on projects that deepen my understanding of both neural principles and computational methods.
+
+
 
 <!--
 **Hemoonchild/Hemoonchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
