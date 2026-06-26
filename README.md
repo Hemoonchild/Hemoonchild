@@ -1,10 +1,8 @@
 ## Hi I'm Hemo Fatemi
 
-A fourth year undergraduate **Computer Science** student at **University of Tehran** with a growing focus on cognitive science and computational neuroscience. 
+A fourth year undergraduate **Computer Science** student at **University of Tehran** with a growing focus on computational neuroscience and machine learning. 
 
-I enjoy exploring ideas at the intersection of brain sciences and computation, and I’m motivated by interdisciplinary research that connects psychology, neuroscience, and machine learning.
-
-My goal is to keep learning, building, and working on projects that deepen my understanding of both neural principles and computational methods.
+My goal is to keep learning, building, and working on projects that deepen my understanding of computational methods.
 
 
 
